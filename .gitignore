@@ -1,0 +1,6 @@
+resources/*
+eval_results/*
+model/*
+log/*
+output/*
+__pycache__/*.pyc
